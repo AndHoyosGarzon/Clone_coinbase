@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.lineaBottom{
+    color: black;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.lineaBottom:hover{
+    border-bottom:1px solid silver;
+}
